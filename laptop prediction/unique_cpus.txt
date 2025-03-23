@@ -1,0 +1,90 @@
+Intel Core i5 2.3GHz
+Intel Core i5 1.8GHz
+Intel Core i5 7200U 2.5GHz
+Intel Core i7 2.7GHz
+Intel Core i5 3.1GHz
+Intel Core i7 2.2GHz
+Intel Core i7 8550U 1.8GHz
+Intel Core i5 8250U 1.6GHz
+Intel Core i3 6006U 2GHz
+Intel Core i7 2.8GHz
+Intel Core M m3 1.2GHz
+Intel Core i7 7500U 2.7GHz
+Intel Core i7 2.9GHz
+Intel Core i3 7100U 2.4GHz
+Intel Atom x5-Z8350 1.44GHz
+Intel Core i5 7300HQ 2.5GHz
+Intel Core i5 1.6GHz
+Intel Core i7 8650U 1.9GHz
+Intel Atom x5-Z8300 1.44GHz
+Intel Celeron Dual Core N3350 1.1GHz
+Intel Core i3 7130U 2.7GHz
+Intel Core i7 7700HQ 2.8GHz
+Intel Core i5 2.0GHz
+Intel Pentium Quad Core N4200 1.1GHz
+Intel Atom x5-Z8550 1.44GHz
+Intel Celeron Dual Core N3060 1.6GHz
+Intel Core i5 1.3GHz
+Intel Core i7 7560U 2.4GHz
+Intel Core i5 6200U 2.3GHz
+Intel Core M 6Y75 1.2GHz
+Intel Core i5 7500U 2.7GHz
+Intel Core i3 6006U 2.2GHz
+Intel Core i7 6920HQ 2.9GHz
+Intel Core i5 7Y54 1.2GHz
+Intel Core i7 7820HK 2.9GHz
+Intel Xeon E3-1505M V6 3GHz
+Intel Core i7 6500U 2.5GHz
+Intel Core i5 2.9GHz
+Intel Core i7 6600U 2.6GHz
+Intel Core i3 6006U 2.0GHz
+Intel Celeron Dual Core 3205U 1.5GHz
+Intel Core i7 7820HQ 2.9GHz
+Intel Core i7 7600U 2.8GHz
+Intel Celeron Dual Core 3855U 1.6GHz
+Intel Pentium Quad Core N3710 1.6GHz
+Intel Core i5 7300U 2.6GHz
+Intel Celeron Quad Core N3450 1.1GHz
+Intel Celeron Dual Core N3060 1.60GHz
+Intel Core i5 6440HQ 2.6GHz
+Intel Core i7 6820HQ 2.7GHz
+Intel Core i7 7Y75 1.3GHz
+Intel Core i5 7440HQ 2.8GHz
+Intel Core i7 7660U 2.5GHz
+Intel Core i7 7700HQ 2.7GHz
+Intel Core M m3-7Y30 2.2GHz
+Intel Core i5 7Y57 1.2GHz
+Intel Core i7 6700HQ 2.6GHz
+Intel Core i3 6100U 2.3GHz
+Intel Celeron Dual Core N3350 2.0GHz
+Intel Core i7 6820HK 2.7GHz
+Intel Core M 7Y30 1.0GHz
+Intel Xeon E3-1535M v6 3.1GHz
+Intel Celeron Quad Core N3160 1.6GHz
+Intel Core i5 6300U 2.4GHz
+Intel Core i3 6100U 2.1GHz
+Intel Celeron Dual Core N3050 1.6GHz
+Intel Core M M3-6Y30 0.9GHz
+Intel Core i5 6300HQ 2.3GHz
+Intel Atom Z8350 1.92GHz
+Intel Xeon E3-1535M v5 2.9GHz
+Intel Core i5 6260U 1.8GHz
+Intel Pentium Dual Core N4200 1.1GHz
+Intel Celeron Quad Core N3710 1.6GHz
+Intel Core M 1.2GHz
+Intel Core i7 7500U 2.5GHz
+Intel Pentium Dual Core 4405U 2.1GHz
+Intel Core i7 6560U 2.2GHz
+Intel Core M m7-6Y75 1.2GHz
+Intel Core M M7-6Y75 1.2GHz
+Intel Core i5 7200U 2.50GHz
+Intel Core i5 7200U 2.70GHz
+Intel Atom X5-Z8350 1.44GHz
+Intel Core i5 7200U 2.7GHz
+Intel Core M 1.1GHz
+Intel Pentium Dual Core 4405Y 1.5GHz
+Intel Pentium Quad Core N3700 1.6GHz
+Intel Core M 6Y54 1.1GHz
+Intel Core i7 6500U 2.50GHz
+Intel Celeron Dual Core N3350 2GHz
+Intel Core M 6Y30 0.9GHz
